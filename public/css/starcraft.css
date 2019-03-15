@@ -1,0 +1,26 @@
+*{
+  margin:0px;
+  padding:0px;
+}
+div#body{
+  margin:auto;
+  margin-top:60px;
+  width: 600px;
+  height: 200px;
+}
+
+div#izquierda{
+  width: 200px;
+  height: 200px;
+  float: left;
+}
+div#centro{
+  width: 200px;
+  height: 200px;
+  float: left;
+}
+div#derecho{
+  width: 200px;
+  height: 200px;
+  float: left;
+}
